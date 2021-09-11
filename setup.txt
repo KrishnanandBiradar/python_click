@@ -1,0 +1,5 @@
+>> cd /mnt/f/New folder/workshop/CLI_APP/python_click
+create venv
+>> python3 -m venv myEnv
+activate venv
+>> source myEnv/bin/activate
