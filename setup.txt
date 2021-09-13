@@ -4,4 +4,6 @@ create venv
 activate venv
 >> source myEnv/bin/activate
 
+# color pkg: pip install colorama
+
 token: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

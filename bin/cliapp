@@ -1,0 +1,4 @@
+#!/bin/sh
+mypth=`dirname $0`
+export PYTHONPATH=$mypth/../lib
+exec python $mypth/../lib/cli_app.py $*
