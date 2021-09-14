@@ -1,4 +1,4 @@
->> cd /mnt/f/New folder/workshop/CLI_APP/python_click
+>> cd /mnt/f/New\ folder/workshop/CLI_APP/python_click
 create venv
 >> python3 -m venv myEnv
 activate venv
@@ -6,4 +6,4 @@ activate venv
 
 # color pkg: pip install colorama
 
-token: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
+token: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
